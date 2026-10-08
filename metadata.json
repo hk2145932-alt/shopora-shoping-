@@ -1,0 +1,6 @@
+{
+  "name": "Shopora",
+  "description": "Modern e-commerce shopping app with community seller marketplace, custom product listing and photo uploads, flash sales, smart search, cart, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
